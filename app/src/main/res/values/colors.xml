@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>#0029b5
+  <color name="colorPrimary">@color/colorRoyalBlue</color>
+  <color name="colorPrimaryDark">#0029b5</color>
+  <color name="colorAccent">#837fff</color>
+  <color name="colorRoyalBlue">#4552e8</color>
+  <color name="colorRipple">#DDDDDD</color>
+
+  <color name="colorBlack">#000000</color>
+  <color name="colorBackground">#F8F8F8</color>
+  <color name="colorDodgerBlue">#4077fe</color>
+  <color name="blue">#293859</color>
+  <color name="grey">#E9EAEE</color>
+  <color name="goodgrey">#535353</color>
+  <color name="yellow">#F8BA0F</color>
+
+
+  <color name="colorTransparent">#00000000</color>
+  <color name="colorWhite">#FFFFFF</color>
+</resources>
